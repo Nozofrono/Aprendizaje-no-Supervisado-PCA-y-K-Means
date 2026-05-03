@@ -1,7 +1,7 @@
 # Reporte de Experimento: Aprendizaje No Supervisado en Calidad de Vino
 
 ## 1. Introducción
-Este reporte documenta el análisis de aprendizaje no supervisado realizado sobre el dataset **Wine Quality**. El estudio se enfoca en la reducción de dimensionalidad mediante PCA y la segmentación de datos utilizando el algoritmo de agrupamiento K-Means.
+Este reporte documenta el análisis de aprendizaje no supervisado realizado sobre el dataset **Wine Quality** tomado de kaggle.com. El trabajo se enfoca en la reducción de dimensionalidad mediante PCA y la segmentación de datos utilizando el algoritmo de agrupamiento K-Means.
 
 ## 2. Metodología
 
